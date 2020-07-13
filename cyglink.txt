@@ -1,0 +1,1 @@
+"C:\Users\Foster\Desktop\KSU\Digital3\D3Project11\D3Project.obj"  TO "C:\Users\Foster\Desktop\KSU\Digital3\D3Project11\D3Project" RS(256) PL(68) PW(78) 
